@@ -1,4 +1,4 @@
-<img width="1887" height="897" alt="image" src="https://github.com/user-attachments/assets/f257e3c0-1555-4ad8-a61a-ffe0fd624270" />
+
 # Employee Management System
 
 A web-based Employee Management System built using **Node.js, Express.js, MongoDB, Mongoose, EJS and MVC Architecture**.
@@ -47,7 +47,7 @@ Explore the Employee Management System and experience its CRUD operations, form 
 ![Employee Dashboard](screenshots/dashboard.png)
 
 ### Add Employee
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](screenshots/add.png)
 
 ## 📁 Project Structure
 
